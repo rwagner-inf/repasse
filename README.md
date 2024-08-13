@@ -1,1 +1,1 @@
-# repasse
+Right now the default permitted/denied resources are loaded from resource_types.go. This should be moved to a file so that the different sections can be loaded from there, so that it's not necessary to push code changes just to update these lists.
